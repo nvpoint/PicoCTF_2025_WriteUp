@@ -7,7 +7,7 @@ They ran the installed software but it seemed to do nothing
 Now every time they bootup and login to their computer, a black command prompt screen quickly opens and closes and their computer shuts down instantly.  
 See if you can find evidence for the each of these events and retrieve the flag (split into 3 pieces) from the correct logs!
 Download the Windows Log file here  
-## Hint :   
+## Hint    
   - Try to filter the logs with the right event ID    
   - What could the software have done when it was ran that causes the shutdowns every time the system starts up?  
 
