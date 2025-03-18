@@ -22,7 +22,7 @@ Mình có được `password_hash`
 
 ## Step 2: Hash cracking
 
-Sử dụng `hashcat` để crack password_hash ta có được password : `jacqueline`
+Sử dụng `hashcat` để crack `userpassword_hash` ta có được password : `jacqueline`
 
 ![Image 3](image7.png)  
 
