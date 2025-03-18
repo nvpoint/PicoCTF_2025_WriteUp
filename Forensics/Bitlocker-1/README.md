@@ -24,7 +24,7 @@ Mình có được `password_hash`
 
 Sử dụng `hashcat` để crack password_hash ta có được password : `jacqueline`
 
-![Image 3](image6.png)  
+![Image 3](image7.png)  
 
 ## Step 3 : giải mã ổ đĩa
 Sử dụng `dislocker` để giải mã `bitlocker-1.dd` bằng `password` vừa crack được ở trên
