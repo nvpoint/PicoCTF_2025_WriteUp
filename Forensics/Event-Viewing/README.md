@@ -36,7 +36,7 @@ Với `1033` tiếp tục dựa vào móc thời gian từ `11707` ta xác đị
 Theo đề bài khi máy khởi động thì shutdown ngay lập tức có thể Malware đã sử dụng registry để tự khởi động khi máy tính bật lên    
 Với móc thời gian từ kết quả ở trên ta tìm được 1 event đáng ngờ   
   
-Object Name: `\REGISTRY\MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`
+Object Name: `\REGISTRY\MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`  
 -> Đây là key quan trọng trong Windows, dùng để chạy ứng dụng khi khởi động.  
   
 Process Name:`C:\Program Files (x86)\Totally_Legit_Software\Totally_Legit_Software.exe`  
