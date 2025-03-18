@@ -3,7 +3,7 @@
 
 Jacky is not very knowledgable about the best security passwords and used a simple password to encrypt their BitLocker drive. See if you can break through the encryption!
 Download the disk image here
-## Hint :   
+## Hint  
   - Hash cracking
 
 # Write-up
